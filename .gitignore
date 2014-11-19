@@ -1,0 +1,6 @@
+#Quitar las básicas de Qt
+practica4/debug
+practica4/release
+Makefile*
+object_script*
+Practica4.pro.user
