@@ -20,6 +20,10 @@ win32 {
 
     LIBS += -LC:/Qt/libQGLViewer-2.5.2/QGLViewer/release \
         -lQGLViewer2
+
+    INCLUDEPATH += C:/Qt/QHull
+
+    LIBS += "C:/Qt/QHull/qhull_p.dll"
 }
 
 
